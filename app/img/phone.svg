@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="361px" height="668px" viewBox="0 0 361 668" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ED5A68D0-8DF5-4958-B7AB-489D842B9FE5</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="92.1683737" width="7.26845638" height="30.318544" rx="3.63422819"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.26845638" height="30.318544" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="156.443687" width="7.26845638" height="53.3606374" rx="3.63422819"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.26845638" height="53.3606374" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="223.144484" width="7.26845638" height="53.3606374" rx="3.63422819"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.26845638" height="53.3606374" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="353.731544" y="156.443687" width="7.26845638" height="53.3606374" rx="3.63422819"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.26845638" height="53.3606374" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <path d="M4.16538462,48.4834182 C4.16538462,21.7067657 25.8798071,0 52.6532167,0 L309.735245,0 C336.514335,0 358.223077,21.7150849 358.223077,48.4834182 L358.223077,619.128615 C358.223077,645.905267 336.508654,667.612033 309.735245,667.612033 L52.6532167,667.612033 C25.8741265,667.612033 4.16538462,645.896948 4.16538462,619.128615 L4.16538462,48.4834182 Z M18.1653846,74.5536 L18.1653846,572.4464 C18.1653846,575.516041 20.6527133,578 23.7209888,578 L338.60978,578 C341.682515,578 344.165385,575.513569 344.165385,572.4464 L344.165385,74.5536 C344.165385,71.4839593 341.678056,69 338.60978,69 L23.7209888,69 C20.6482541,69 18.1653846,71.4864314 18.1653846,74.5536 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="354.057692" height="667.612033" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="152.637584" y="36.0871369" width="56.9362416" height="13.6352752" rx="6.81763761"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56.9362416" height="13.6352752" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="131.903846" y="609.377593" width="98.5807692" height="27.7593361" rx="13.879668"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="98.5807692" height="27.7593361" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Additional-components" transform="translate(-860.000000, -155.000000)" stroke-width="2.42462687">
+            <g id="device-361" transform="translate(860.000000, 155.000000)">
+                <g id="Phone">
+                    <use id="btn-1" stroke="#E0E0E0" mask="url(#mask-2)" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <use id="btn-2" stroke="#E0E0E0" mask="url(#mask-4)" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="btn-3" stroke="#E0E0E0" mask="url(#mask-6)" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="btn-4" stroke="#E0E0E0" mask="url(#mask-8)" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <use id="Combined-Shape" stroke="#E0E0E0" mask="url(#mask-10)" fill="#F9F9F9" xlink:href="#path-9"></use>
+                    <use id="mic" stroke="#F9F9F9" mask="url(#mask-12)" fill="#E0E0E0" xlink:href="#path-11"></use>
+                </g>
+                <use id="Rectangle-3" stroke="#E0E0E0" mask="url(#mask-14)" fill="#F9F9F9" xlink:href="#path-13"></use>
+            </g>
+        </g>
+    </g>
+</svg>
